@@ -1,8 +1,8 @@
 ## Table of Contents:
-### (1) Data Retrievals:
+### (1) Data Retrieval:
 #### Web scraping and API calls.
 ### (2) EDA:
-#### Initial exploratory insights, and organizing queries for a bigger dataset.
+#### Initial insights and graphics; sophisticated queries from nutrition dataset.
 ### (3) Setup and Model:
 #### Custom vectorizer, binarizer, and completed feature engineering.
 ### (4) Modeled:
