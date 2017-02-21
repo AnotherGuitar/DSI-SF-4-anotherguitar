@@ -1,5 +1,6 @@
 ## Table of Contents:
-### (1) Proposals:
+### (1) Data Retrievals:
+#### Web scraping and API calls.
 ### (2) EDA:
 #### Initial exploratory insights, and organizing queries for a bigger dataset.
 ### (3) Setup and Model:
