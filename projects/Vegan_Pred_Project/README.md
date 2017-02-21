@@ -1,4 +1,4 @@
-## Table of Contents:
+## {Table of Contents}:
 ### (1) Data Retrieval:
 #### Web scraping and API calls.
 ### (2) EDA:
