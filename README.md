@@ -1,2 +1,2 @@
-### Welcome to my neck of the woods
-#### Projects directory  holds my relevant work
+### Welcome to my neck of the woods!
+#### --> The pProjects directory  holds my relevant work.
