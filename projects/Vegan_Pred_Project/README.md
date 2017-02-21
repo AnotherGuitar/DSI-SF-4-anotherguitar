@@ -1,4 +1,4 @@
-# Table of Contents:
+## Table of Contents:
 
 ### (1) Proposals:
 ### (2) EDA: Initial exploratory insights, and organizing queries for a bigger dataset.
