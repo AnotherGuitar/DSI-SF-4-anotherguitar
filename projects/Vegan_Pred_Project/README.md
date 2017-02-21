@@ -1,6 +1,6 @@
 # Table of Contents:
 
-## (1) Proposals:
+### (1) Proposals:
 ## (2) EDA: Initial exploratory insights, and organizing queries for a bigger dataset.
 ## (3) Setup and Model: custom vectorizer, binarizer, and completed feature engineering.
 ## (4) Modeled: Lin/logit regressions, decision trees, classification, clustering; cross-validation and quality checks.
